@@ -19,4 +19,4 @@ class NumbersController {
     }
 }
 
-export default NumbersController;
+module.exports = NumbersController;
